@@ -12,8 +12,8 @@ By doing research on platforms like Google, YouTube, MDN docs, Stack Overflow, o
 
 ### What did I learned? 
 
-* How to use Atom and VS code
-* How to find and use official  documentation for bootstrap code libraries 
+* How to use Atom and VS code more efficiently
+* How to find and use official documentation for bootstrap code libraries 
 * How to properly implement HTML
 * How to properly implement CSS 
 * How to create a NAV bar in HTML
