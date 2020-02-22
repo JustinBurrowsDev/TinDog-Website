@@ -7,7 +7,7 @@ At this current moment I’m not really familiar with the bootstrap library. And
 
 ### How I Overcame? 
 
-By doing research on platforms like Google, YouTube, MDN docs, Stack Overflow, online courses, and reference guides. I found not only the proper way to implement HTML and CSS but official documentation for bootstrap. These tools not only gave me a clearer vision of how this project could come together, Who also gave me the means to bring that vision into reality. 
+By doing research on platforms like Google, YouTube, MDN docs, Stack Overflow, online courses, and reference guides. I found not only the proper way to implement HTML and CSS but official documentation for bootstrap. These tools not only gave me a clearer vision of how this project could come together, but also gave me the means to bring that vision into reality. 
 
 
 ### What Did I Learned? 
