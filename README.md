@@ -21,3 +21,5 @@ By doing research on platforms like Google, YouTube, MDN docs, Stack Overflow, o
 * How to create a review carousel using HTML and CSS
 * How to set up a pricing table using HTML and CSS
 * How to incorporate social media icons into a website using HTML and CSS 
+
+![Tindog Screenshot](tindogpic.png)
